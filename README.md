@@ -77,3 +77,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+## Test Travis CI
+
+[![Build Status](https://travis-ci.org/WildaRizkiRazini/CI-Test_CI_ke_2.svg?branch=master)](https://travis-ci.org/WildaRizkiRazini/CI-Test_CI_ke_2)
